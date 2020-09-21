@@ -6,6 +6,6 @@ to our desired market for n number of days using LSTM.
 
 
 Output:
-![alt text](https://github.com/nikhilskul7/Predicting-Value-of-Bitcoin-in-INR/blob/master/Screenshot (48).png.?raw=true)
+![alt text](https://github.com/nikhilskul7/Predicting-Value-of-Bitcoin-in-INR/master/Screenshot (48).png.?raw=true)
 
-![alt text](https://github.com/nikhilskul7/Predicting-Value-of-Bitcoin-in-INR/blob/master/Screenshot (49).png.?raw=true)
+![alt text](https://github.com/nikhilskul7/Predicting-Value-of-Bitcoin-in-INR/master/Screenshot (49).png.?raw=true)
