@@ -6,5 +6,7 @@ to our desired market for n number of days using LSTM.
 
 
 Output:
-![Screenshot](Screenshot (48).png)
-![Screenshot](Screenshot (49).png)
+<p align="center">
+  <img src="Screenshot (49).png" width="350" title="hover text">
+  <img src="Screenshot (48).png" width="350" alt="accessibility text">
+</p>
