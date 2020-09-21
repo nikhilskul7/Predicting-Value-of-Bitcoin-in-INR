@@ -7,6 +7,9 @@ to our desired market for n number of days using LSTM.
 
 Output:
 <p align="center">
-  <img src="Screenshot (49).png" width="350" title="hover text">
-  <img src="Screenshot (48).png" width="350" alt="accessibility text">
+  <img src="Screenshot (49).png" width="650" >
+  </p>
+  <p align="center">
+
+  <img src="Screenshot (48).png" width="650" >
 </p>
